@@ -1,4 +1,4 @@
-A project Made in First Semester.
+A project Made in my First Semester.
 
 # RabbitsGame
 In this PART#1, you are NOT ALLOWED TO USE ARRAYS. You can
