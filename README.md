@@ -1,3 +1,5 @@
+A project Made in First Semester.
+
 # RabbitsGame
 In this PART#1, you are NOT ALLOWED TO USE ARRAYS. You can
 only use variables (including String) to store data, selection statements (if,
